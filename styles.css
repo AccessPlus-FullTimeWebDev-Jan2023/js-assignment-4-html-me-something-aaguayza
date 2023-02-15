@@ -1,1 +1,44 @@
-/* Write your CSS here! */
+html{
+    background-color: whitesmoke;
+    color: darkslategray;
+}
+#mainHeading{
+    background-color: green;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 200%;
+}
+#testP{
+    text-align: center;
+    color: green;
+    margin-bottom: 2%;
+}
+h2{
+    text-align: center;
+    margin-top: 2%;
+}
+body{
+    margin: 8px;
+    display: block;
+}
+#whatAreLevels{
+    text-align: left;
+}
+.gundam-grades{
+    height: 50%;
+    width: 50%;;
+    
+}
+.banner-pic{
+    height: 5%;
+    width: 100%;
+
+}
+.box-art{
+    height: 50%;
+    width: 50%;
+
+}
